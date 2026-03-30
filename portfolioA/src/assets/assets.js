@@ -35,7 +35,7 @@ import healthlone from './healthlone.png'
 import movieBooking from './movieBooking.png'
 import realState from './realState.png'
 import smartgpt from './smartgpt.png'
-import stockFront from './stockFront.png'
+import stockFront from './StockFront.png'
 import text_image from './text_image.png'
 
 export const projects = {cityWeather,Ecommerce,fraud_transaction,movieBooking,realState,smartgpt,stockFront,text_image,healthlone};
