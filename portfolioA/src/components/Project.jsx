@@ -4,12 +4,12 @@ import { projects } from '../assets/assets';
 
 export default function Projects() {
     const images = [
-        [projects.cityWeather, "MausamHaal", "This is a simple weather app that provides real-time weather information for any location.","https://mausamhaal2.netlify.app/","https://github.com/amanverma9008003/Weather-App"],
-        [projects.Ecommerce, "E-commerce Platform", "This is a comprehensive e-commerce platform for online shopping.","https://ecommercewebpag.netlify.app/","https://github.com/amanverma9008003/ecommerce-frontend"],
         [projects.fraud_transaction, "Fraud Transaction Detection", "This is a machine learning model for detecting fraudulent transactions.","https://predictive-transaction-intelligence.vercel.app/","https://github.com/amanverma9008003/fraud_transaction_management"],
         [projects.movieBooking, "Quickshow Movies", "This is a movie booking app that allows users to book tickets for their favorite movies.","https://quick-show-wj4f.vercel.app/","https://github.com/amanverma9008003/quickShow"],
         [projects.realState, "H-state", "This is a real estate platform for buying and selling properties.","https://hstate.vercel.app/","https://github.com/amanverma9008003/hstate"],
         [projects.smartgpt, "SmartGPT", "This is an AI-powered chatbot for answering user queries.","https://smartact.netlify.app/","https://github.com/amanverma9008003/Smartgpt"],
+        [projects.cityWeather, "MausamHaal", "This is a simple weather app that provides real-time weather information for any location.","https://mausamhaal2.netlify.app/","https://github.com/amanverma9008003/Weather-App"],
+        [projects.Ecommerce, "E-commerce Platform", "This is a comprehensive e-commerce platform for online shopping.","https://ecommercewebpag.netlify.app/","https://github.com/amanverma9008003/ecommerce-frontend"],
         [projects.stockFront, "Zerodha Stock Trade", "This is a stock trading platform for buying and selling stocks.","https://stock-trade-azure.vercel.app/","https://github.com/amanverma9008003/StockTrade"],
         [projects.text_image, "Text to Image Generator", "This is an AI model for generating images from text descriptions.","https://text-image-mqpw.vercel.app/","https://github.com/amanverma9008003/TextImage"],
         [projects.healthlone, "Predict Healthlone", "This is a health prediction model for early disease detection.","https://loanprediction-dwkolf2z54snemvnn8sdxr.streamlit.app/","https://github.com/amanverma9008003/Loan_prediction"],
